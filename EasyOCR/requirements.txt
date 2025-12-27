@@ -2,3 +2,4 @@ easyocr
 flask
 werkzeug
 pillow
+gunicorn
